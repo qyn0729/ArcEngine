@@ -1,0 +1,11 @@
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\obj\x86\Debug\3170101779_邱亦宁_实习1.csprojAssemblyReference.cache
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\obj\x86\Debug\MapControlApplication1.BookmarkNameExists.resources
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AdmitBookmarkName.resources
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\obj\x86\Debug\3170101779_邱亦宁_实习1.csproj.GenerateResource.cache
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\obj\x86\Debug\3170101779_邱亦宁_实习1.csproj.CoreCompileInputs.cache
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+D:\aMyFile\GIS Programming\实习1\程序\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb

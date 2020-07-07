@@ -1,0 +1,39 @@
+D:\3170101779\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+D:\3170101779\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+D:\3170101779\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csprojResolveAssemblyReference.cache
+D:\3170101779\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+D:\3170101779\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+D:\3170101779\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.GenerateResource.Cache
+D:\3170101779\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+D:\3170101779\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+D:\11111111111111\GIS程序设计\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+D:\11111111111111\GIS程序设计\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+D:\11111111111111\GIS程序设计\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csprojAssemblyReference.cache
+D:\11111111111111\GIS程序设计\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+D:\11111111111111\GIS程序设计\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+D:\11111111111111\GIS程序设计\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.GenerateResource.cache
+D:\11111111111111\GIS程序设计\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.CoreCompileInputs.cache
+D:\11111111111111\GIS程序设计\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+D:\11111111111111\GIS程序设计\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csprojAssemblyReference.cache
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.GenerateResource.cache
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.CoreCompileInputs.cache
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AdmitBookmarkName.resources
+D:\11111111111111\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AdmitBookmarkNameError.resources
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csprojAssemblyReference.cache
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AdmitBookmarkName.resources
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.GenerateResource.cache
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.CoreCompileInputs.cache
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+D:\aMyFile\GIS Programming\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.BookmarkNameExists.resources
